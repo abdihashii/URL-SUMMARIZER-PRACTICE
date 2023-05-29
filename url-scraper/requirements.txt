@@ -1,0 +1,6 @@
+beautifulsoup4
+requests
+textwrap3
+pyperclip3
+tiktoken
+scikit-learn
